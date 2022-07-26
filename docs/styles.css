@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@700&display=swap');
+
+* {
+	box-sizing: border-box;
+	font-family: News Cycle;
+	color: white;
+}
+
+body {
+	background-image: url("chicago2.jpg");
+	background-size: cover;
+}
+
+p {
+	font-size: 18px;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 50px;
+}
+
+.box {
+	display: block;
+	width: 85%;
+	margin-top: 200px;
+	background-color: rgba(188, 194, 190, 0.9);
+	padding: 10px;
+	border-radius: 5px;  
+}
+
+.title {
+	margin-top: 0;
+	font-size: 52px;
+}
+
+.reportLink {
+	font-size: 24px;
+	color: #cfdeff;
+}
