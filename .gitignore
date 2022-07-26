@@ -1,0 +1,10 @@
+*.pdf
+*.docx
+*.csv
+*.xlsx
+*.zip
+notes.txt
+.Rproj.user
+.Rhistory
+.RData
+unitetables.sql
